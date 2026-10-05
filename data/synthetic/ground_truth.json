@@ -1,0 +1,320 @@
+[
+  {
+    "shape": "circle",
+    "center": [
+      64,
+      53
+    ],
+    "size": 45,
+    "rotation_deg": 0,
+    "filename": "circle_000.png"
+  },
+  {
+    "shape": "circle",
+    "center": [
+      69,
+      66
+    ],
+    "size": 33,
+    "rotation_deg": 0,
+    "filename": "circle_001.png"
+  },
+  {
+    "shape": "circle",
+    "center": [
+      60,
+      56
+    ],
+    "size": 29,
+    "rotation_deg": 0,
+    "filename": "circle_002.png"
+  },
+  {
+    "shape": "circle",
+    "center": [
+      102,
+      52
+    ],
+    "size": 43,
+    "rotation_deg": 0,
+    "filename": "circle_003.png"
+  },
+  {
+    "shape": "circle",
+    "center": [
+      53,
+      85
+    ],
+    "size": 25,
+    "rotation_deg": 0,
+    "filename": "circle_004.png"
+  },
+  {
+    "shape": "circle",
+    "center": [
+      101,
+      114
+    ],
+    "size": 32,
+    "rotation_deg": 0,
+    "filename": "circle_005.png"
+  },
+  {
+    "shape": "triangle",
+    "center": [
+      85,
+      142
+    ],
+    "size": 30,
+    "rotation_deg": 287,
+    "filename": "triangle_006.png"
+  },
+  {
+    "shape": "triangle",
+    "center": [
+      117,
+      77
+    ],
+    "size": 37,
+    "rotation_deg": 229,
+    "filename": "triangle_007.png"
+  },
+  {
+    "shape": "triangle",
+    "center": [
+      143,
+      122
+    ],
+    "size": 30,
+    "rotation_deg": 81,
+    "filename": "triangle_008.png"
+  },
+  {
+    "shape": "triangle",
+    "center": [
+      70,
+      140
+    ],
+    "size": 38,
+    "rotation_deg": 79,
+    "filename": "triangle_009.png"
+  },
+  {
+    "shape": "triangle",
+    "center": [
+      56,
+      93
+    ],
+    "size": 40,
+    "rotation_deg": 52,
+    "filename": "triangle_010.png"
+  },
+  {
+    "shape": "triangle",
+    "center": [
+      146,
+      82
+    ],
+    "size": 33,
+    "rotation_deg": 183,
+    "filename": "triangle_011.png"
+  },
+  {
+    "shape": "square",
+    "center": [
+      59,
+      112
+    ],
+    "size": 49,
+    "rotation_deg": 135,
+    "filename": "square_012.png"
+  },
+  {
+    "shape": "square",
+    "center": [
+      100,
+      62
+    ],
+    "size": 47,
+    "rotation_deg": 63,
+    "filename": "square_013.png"
+  },
+  {
+    "shape": "square",
+    "center": [
+      132,
+      131
+    ],
+    "size": 47,
+    "rotation_deg": 150,
+    "filename": "square_014.png"
+  },
+  {
+    "shape": "square",
+    "center": [
+      70,
+      136
+    ],
+    "size": 41,
+    "rotation_deg": 295,
+    "filename": "square_015.png"
+  },
+  {
+    "shape": "square",
+    "center": [
+      121,
+      66
+    ],
+    "size": 32,
+    "rotation_deg": 23,
+    "filename": "square_016.png"
+  },
+  {
+    "shape": "square",
+    "center": [
+      153,
+      73
+    ],
+    "size": 39,
+    "rotation_deg": 40,
+    "filename": "square_017.png"
+  },
+  {
+    "shape": "pentagon",
+    "center": [
+      73,
+      96
+    ],
+    "size": 33,
+    "rotation_deg": 194,
+    "filename": "pentagon_018.png"
+  },
+  {
+    "shape": "pentagon",
+    "center": [
+      75,
+      102
+    ],
+    "size": 50,
+    "rotation_deg": 186,
+    "filename": "pentagon_019.png"
+  },
+  {
+    "shape": "pentagon",
+    "center": [
+      131,
+      80
+    ],
+    "size": 41,
+    "rotation_deg": 107,
+    "filename": "pentagon_020.png"
+  },
+  {
+    "shape": "pentagon",
+    "center": [
+      132,
+      136
+    ],
+    "size": 50,
+    "rotation_deg": 36,
+    "filename": "pentagon_021.png"
+  },
+  {
+    "shape": "pentagon",
+    "center": [
+      133,
+      71
+    ],
+    "size": 35,
+    "rotation_deg": 273,
+    "filename": "pentagon_022.png"
+  },
+  {
+    "shape": "pentagon",
+    "center": [
+      88,
+      74
+    ],
+    "size": 35,
+    "rotation_deg": 236,
+    "filename": "pentagon_023.png"
+  },
+  {
+    "shape": "rectangle",
+    "center": [
+      121,
+      78
+    ],
+    "size": [
+      79,
+      45
+    ],
+    "rotation_deg": 352,
+    "filename": "rectangle_024.png"
+  },
+  {
+    "shape": "rectangle",
+    "center": [
+      73,
+      149
+    ],
+    "size": [
+      71,
+      35
+    ],
+    "rotation_deg": 28,
+    "filename": "rectangle_025.png"
+  },
+  {
+    "shape": "rectangle",
+    "center": [
+      103,
+      51
+    ],
+    "size": [
+      51,
+      35
+    ],
+    "rotation_deg": 205,
+    "filename": "rectangle_026.png"
+  },
+  {
+    "shape": "rectangle",
+    "center": [
+      67,
+      123
+    ],
+    "size": [
+      56,
+      43
+    ],
+    "rotation_deg": 161,
+    "filename": "rectangle_027.png"
+  },
+  {
+    "shape": "rectangle",
+    "center": [
+      100,
+      60
+    ],
+    "size": [
+      65,
+      37
+    ],
+    "rotation_deg": 329,
+    "filename": "rectangle_028.png"
+  },
+  {
+    "shape": "rectangle",
+    "center": [
+      132,
+      108
+    ],
+    "size": [
+      58,
+      29
+    ],
+    "rotation_deg": 126,
+    "filename": "rectangle_029.png"
+  }
+]
